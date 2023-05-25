@@ -6,7 +6,7 @@ body {
 }
 
 nav {
-    position: static;
+    position: fixed;
     top: 0;
     left: 0;
     backdrop-filter: blur(10px) saturate(200%) brightness(70%);
