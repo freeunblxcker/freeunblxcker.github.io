@@ -1,6 +1,6 @@
-# Blank HTML5 Website Framework
+# UnblockersGG
 
-The whole point of this is to abstract things I do over and over again when starting a new web design/development project. This reflects my workflow and may change over time because of that. 
+This is still in development and isnt the final version
 
 ## Production Recommendations
 
